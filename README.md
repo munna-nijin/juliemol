@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NIJIN" src="https://img.shields.io/badge/NIJIN-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/munna-nijin"><img title="Author" src="https://img.shields.io/badge/Author-munna-nijin/juliemol?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -123,7 +123,7 @@ By establishing the juliemol, you are deemed to have accepted these responsibili
     
   [![munna-nijin](https://github.com/munna-nijin.png?size=100)](https://github.com/munna-nijin) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/munna-nijin) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Nijin](https://github.com/munna-nijin) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
@@ -134,3 +134,4 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
+ 
