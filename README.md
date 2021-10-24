@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 Click juliemol logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/DjdbrzTeOOMLw1wCBz9nhA" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/DjdbrzTeOOMLw1wCBz9nhA" target="blank"><img align="center" src="juliemol.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
