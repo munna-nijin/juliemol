@@ -1,6 +1,6 @@
 {
-    "name": "Pikachu",
-    "description": "Pikachu - Whatsapp Bot",
+    "name": "juliemol",
+    "description": "juliemol - Whatsapp Bot",
     "logo": "https://i.imgur.com/W0i7oMY.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/ameer-kallumthodi/pikachu",
@@ -22,9 +22,9 @@
             "value": "en"
         },
          "BGM_DURATION": {
-            "description": "FUNY BGM DURATION   codded by SAIDALI",
+            "description": "FUNY BGM DURATION   codded by MUNNA",
             "required": false,
-            "value": "31996800"
+            "value": "00000001"
          },
          "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
