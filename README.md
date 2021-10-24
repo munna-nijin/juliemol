@@ -1,11 +1,11 @@
-<a <a href href="https://bit.ly/3koZRGY"><img src="julie.jpg" alt="google-font" border="0"></a>
+<a <a href href="https://bit.ly/3koZRGY"><img src="juliemol.jpg" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="julie.jpg" alt="GIF" width="150" height="150"/>
+        <img src="juliemol.jpg" alt="image" width="150" height="150"/>
 </p>
 
 <div align="center">
 
-## [![juliemol](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+juliemol+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![juliemol](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+juliemol+WA+Bot+repo;Created+by+Nijin+Munna;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
